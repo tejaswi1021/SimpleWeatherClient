@@ -16,3 +16,4 @@ A simple Java application that consumes the **OpenWeatherMap REST API** to fetch
 ## 🛠 Requirements
 
 - Java 11 or higher  
+
